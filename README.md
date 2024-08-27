@@ -1,4 +1,4 @@
-#3 The client folder is causing issues during push and comit using git for that folder access Google drive link - https://drive.google.com/drive/folders/1aIE9h8GP_VJCSmkZyu88AltEoQFTEm4U?usp=drive_link
+## The client folder is causing issues during push and comit using git for that folder access Google drive link - https://drive.google.com/drive/folders/1aIE9h8GP_VJCSmkZyu88AltEoQFTEm4U?usp=drive_link
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
